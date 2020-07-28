@@ -1,20 +1,20 @@
 import React from 'react';
-import Menu from './components/Menu/menu';
-import dadosIniciais from './data/dados_iniciais.json';
-import BannerMain from './components/BannerMain';
-import Carousel from './components/Carousel';
-import Footer from './components/Footer';
+import Menu from '../../../components/Menu/menu';
+import dadosIniciais from '../../../data/dados_iniciais.json';
+import BannerMain from '../../../components/BannerMain';
+import Carousel from '../../../components/Carousel';
+import Footer from '../../../components/Footer';
 
 function App() {
   return (
-    <div style={{ background: '#141414' }}>
+    <div style={{ background: '#000000' }}>
       <Menu />
 
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
         videoDescription={
-          'O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!'
+          'Agora você pode fazer uma live stream de qualquer série da Netflix para todos seus amigos ou assinantes, basta escolher a série e começar a testar!'
         }
       />
 
@@ -27,8 +27,6 @@ function App() {
       <Carousel category={dadosIniciais.categorias[3]} />
 
       <Carousel category={dadosIniciais.categorias[4]} />
-
-      <Carousel category={dadosIniciais.categorias[5]} />
 
       <Footer />
     </div>

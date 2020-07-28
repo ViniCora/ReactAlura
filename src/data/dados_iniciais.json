@@ -1,183 +1,177 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Séries de ficção científica",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Netflix And Chill",
+          "imagem": "",
+          "url": ""
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Sense8",
+          "imagem": "https://occ-0-4369-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABe8mnQOuNifms6oSwQDFnpwcimrrOXcPZuIna6jpUWLkXkU8HEuznX3bbaEV1uQsYp30YJHbXAC7HYm3kuBROJ1-2S-99fqX6GjDNLf-GsOnLRkO-oxmcIAIJRPg.jpg?r=b94",
+          "url": "https://www.netflix.com/watch/80025745"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
+          "titulo": "The OA",
+          "imagem": "https://occ-0-4369-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcPlb73PVlbXJK_K-RRmurbagDhNzTSmmBoNvcoxFFWZSMHEPYDLErcm-9w_BuZORrkbvVTRQDDZ-tfDbL3f7whYq5r4rmqZaZM5sJljjSoKHGAEj-G-SwgCnNZl.jpg?r=e09",
           "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "titulo": "Legion",
+          "imagem": "https://occ-0-4369-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXel_hqUpwe9Ldamo0Znfy3DxcdNoS-ESpZcJEiEi8eGCflTlQhB5SnioCPcnykEp5TBh1SKsHgcAbkjx6IWJzmCg5jmCDdx_Aifar-9oSequLDAxKoNgs7dQz5Fw5ncvg.webp?r=75c",
           "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+          "titulo": "Orphan Black",
+          "imagem": "https://occ-0-4369-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABc3NFOWPKmFbocXzbKembpVNqexqw92gkkhoSU0tGT69d5c_daEGvVFpCWOvuOt8X40UrvBj8PeQIIDseFwTHPu1tk5U33Mf1XcWGwPMKahsuGukenChKM1UcwhV.jpg?r=8b1",
           "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "titulo": "The Rain",
+          "imagem": "https://occ-0-4369-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUUrf-xGyEs21_NHDvKxJU4KfKpkjF0OysCo5imyJi_8HTnk8cUo7jVy44fttdcVIzIHkWoJu-MmN-cshW90JDzw0mJveSxrGzx3J_emDhn7ZngRW3_6NtM8Lg3h.jpg?r=8a6",
           "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
         },
         {
-          "titulo": "Novidades do Angular v9",
+          "titulo": "Artered Carbon",
+          "imagem": "https://occ-0-4369-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXAL21D8g1U5-VbEslGrK-SXch8l_ZKJ89BeH2heD5fgGUXJJGSq_03MeWVpNzkOy9FGckVuI2BHwTuAznsCL1ZM9wfeq4IHhiFzZASNLDBjV_lqwjcwOkLwNPNL.jpg?r=c05",
           "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
         },
         {
-          "titulo": "Base para aprender os frameworks",
+          "titulo": "Noite a dentro",
+          "imagem": "https://occ-0-4369-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABaxyTKW3raDAikZymNGDW_LWGMrDahffBNCw13PYGhwjkBxF7Nq4jQdj3lcfvUY6vB5jhKyZxXDZkltLYHeN82PVerZ2E95BczYDUtO3y4Iy81V8FPQiwDk8rTeL.jpg?r=e05",
           "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
         }
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Suspense Policial",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "",
+        "imagem": "",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "titulo": "Sherlock",
+          "imagem": "https://occ-0-4369-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABe3jYrZO9KnR8cgHr_pJwTF6BXcrD9LwmjxihQsLOlh9DPQGn3mFnyGkRCi_4HXt0qwy0sWw7QvAwFVht613iRlPjvs.webp?r=500",
           "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+          "titulo": "Labirinto Verde",
+          "imagem": "https://occ-0-4369-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABau995IR9nBXWOIUH2FJ8IPIo6rS3WTclfUJ10J5jR5z0qo0pRQ-foRsp-CblK5CPy8tbnYDh8vNN9kDB41-uUQYCABdcpe79380oRb7H5XjIxLmQRw-0xkBrg4h.jpg?r=502",
           "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "titulo": "How To get Away with murder",
+          "imagem": "https://occ-0-4369-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUftlRxd2F-YZVE9VZyV_IR9OWDxSC4c84cJiUGGcWmRBn-TpysDSrhqs5VDROZ6pySAYv9jG0DssO_YTc7vZDEsxMo.webp?r=27b",
           "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
         },
         {
-          "titulo": "API: Dicionário do Programador",
+          "titulo": "Trapped",
+          "imagem": "https://occ-0-4369-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUftlRxd2F-YZVE9VZyV_IR9OWDxSC4c84cJiUGGcWmRBn-TpysDSrhqs5VDROZ6pySAYv9jG0DssO_YTc7vZDEsxMo.webp?r=27b",
           "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
         },
         {
-          "titulo": "Usando Git Direito",
+          "titulo": "Bordertown",
+          "imagem": "https://occ-0-4369-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbrnfR6fvRRG8bGYQrKVvlVcBTmWeM3PbqIN8i_WnJecK-J7zeYjJLL_ORf0ASH8lQEVPk8cfpvhdaZlF5Z5rP4XJFLmJYqhHGYbUJhZIbsLpYq4OTvNzswyg2C8.jpg?r=c4c",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Ação e Aventura",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "",
+        "imagem": "",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
+          "titulo": "Gotham",
+          "imagem": "https://occ-0-4369-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABe4dJ_YqYuo413Lc5SEgnaePcQsT0Mpc7tC3LrV5SO-Kr_AIvSBrQQW6d5ARfa-jC-_yExqzthXKrDHFZpQ1T572KNY.webp?r=282",
           "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
         },
         {
-          "titulo": "O que é Data Science?",
+          "titulo": "Desventuras em série",
+          "imagem": "https://occ-0-4369-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZZO5R2ohpWOkaBf-fa2V34sr3Ct1Y2dM6TLYoJpzfnNpcOCSemTwLr63YRPdaM0AXXl5Ks_M__vCfsaUQlg1Xk8i81s_mxr3LIrTWUCvvBKKVUcOhLoKCG-AkdO.jpg?r=d6c",
           "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
+          "titulo": "Legends of tomorrow",
+          "imagem": "https://occ-0-4369-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXj3hPJP6R7-2RDiIg2KAzl_1DBD04SkiHOsrgDhCkN64rnTWAkkK8wx9igzFBdUzPG7OxNCNXmiw3eYNYRTwulQmqQ.webp?r=026",
           "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
+          "titulo": "The 100",
+          "imagem": "https://occ-0-4369-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABW_yExkseX4Bw-AcWQlyTknQ9WquDJjf_8OYlhVTx1A2gCCJBNcYW0UXvPk2Uk3SwJWN270IH8OeattS-HZeOT_WEOA.webp?r=d42",
           "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Séries estrangeiras",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
+          "titulo": "La casa de papel",
+          "imagem": "https://occ-0-4369-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABToC7gXtzyK0ACFjIkpjsQbub_94akxzHRAoBcGEHaE3q1goFUIkwnCH7Q0McskGnMxHHSCLRyby4pr5M4GQaTwcK6N2RJ8EqYWNmttPzh24DhnB26Cs5zA8LAnV.jpg?r=66b",
           "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
         },
         {
-          "titulo": "Gattaca",
+          "titulo": "Vis a vis",
+          "imagem": "https://occ-0-4369-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZtaIiqf30Ub7XMg_T78ndUp1NYpx6BetJFjxOpB26qiPUUEK_oEgtNDnGwo8Z8qvfHT-XntnxlqqebNPj79_eN1wDuPKo9p1xk-VkgvcjZcQ8QQ_V-gu4wR6v0P.jpg?r=d3e",
           "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
         },
         {
-          "titulo": "A Chegada",
+          "titulo": "Silêncio na floresta",
+          "imagem": "https://occ-0-4369-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQ2d9eWP1L2yvxMuNvw-I-7F4MUI3-OsZeHQVRpPh942I9fKeGkRJMEoBfNCHy24Jl7baSqsyqVUabX20_QugBbJkotxnbmp0x5p1W6qOWGGJeZbGoMBMiIZohiE.jpg?r=338",
           "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
         },
         {
-          "titulo": "Feitiço do Tempo",
+          "titulo": "As telefonistas",
+          "imagem": "https://occ-0-4369-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABeEB1aZTSZJrY3acl1B25lqS5mNFCjoJ7_g4ULigyKrOc4E35BahlLDHXiIsFiblOQpbWEpAhXwE2W4JIHuZNFGcgM7hajZBxrgWOlWDJlEThSySkowaV-wmPBSnVOb4ZOT5AyqFm-nWYM75LAAElGipo5fcIw.jpg?r=1e8",
           "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Terror americano para TV",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "",
+        "imagem": "",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
+          "titulo": "A maldição da residencia hill",
+          "imagem": "https://occ-0-4369-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZ9fT2EEM1Ui-YGfAeybW0Pw2K7AmATE5UKgzbA9ccrDx_FtjFe-ysRV6nHtgRNLcjfwP9R9fgg1lxkSESGhiViI41MtX2vxTqY4FMq-z4FCPEbG_hAyTM4ZvO08.jpg?r=c60",
           "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
+          "titulo": "The walking dead",
+          "imagem": "https://occ-0-4369-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABawazyZDH1eecbRcPBUNZjBMMNnE2Dj_WZNdyPco8vYFCPLUQU8MGiLWb8ublM2wn68ssevHtg3Ry78nmLV-DDe4eCo.webp?r=89f",
           "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
         },
         {
-          "titulo": "God of War 4",
+          "titulo": "Stranger Things",
+          "imagem": "https://occ-0-4369-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVHUOJmTjLhLc6CDwpJaXOA3IoOiM1qo4WvLEoc4Zn1IIjr2jmmteI9Gnl8a2qcJ-YrZK7KWieXnggH5Rw4J6LoUCINgmy1qTWyXTrInMwN_BkNR7UMqJD6F0LBN.jpg?r=0dc",
           "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
         },
         {
-          "titulo": "Resident Evil 8",
+          "titulo": "O mundo sombrio de Sabrina",
+          "imagem": "https://occ-0-4369-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSKU6NgGxycpuKq-qJyHqw3HF0vRFrPBz6J8HjVdwt_AhTNRnQQ81cKUzqrbFi5ZiryaQ-Fsiarfgu2QVBmL2zidGwVPLfaMJkpGPXVsRGXCvyG2LqiXC_uo-Dhf.jpg?r=2e6",
           "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
         }
       ]
     }
